@@ -63,8 +63,7 @@ h3 {
     border-bottom: 2px solid #ccc;
 }
 
-#logo,
-#logo1 {
+#logo {
     float: left;
     width: 250px;
     height: 90px;
